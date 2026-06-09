@@ -49,7 +49,7 @@ All hyperparameters are in `config.py`:
 | Num heads | 4 |
 | Num blocks | 6 |
 | Learning rate | 3e-4 |
-| Epochs | 10 |
+| Epochs | 50 |
 | Batch size | 64 |
 
 ## Training Details
