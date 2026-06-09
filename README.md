@@ -57,7 +57,6 @@ All hyperparameters are in `config.py`:
 - Optimizer: Adam (β1=0.9, β2=0.999)
 - LR schedule: linear warmup (10% of steps) then cosine decay to 0
 - Data augmentation: random horizontal flip, random crop with padding 4
-- Gradient clipping: max norm 1.0
 
 ## Requirements
 
