@@ -6,6 +6,6 @@ CONFIG = {
     "model_dim": 128,
     "num_classes": 10,
     "learning_rate": 3e-4,
-    "epochs": 10,
+    "epochs": 50,
     "batch_size": 64,
 }
